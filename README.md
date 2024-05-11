@@ -1,7 +1,7 @@
-### sami 🧉
+##### 🛰 I have fallen deep in love with the sky...
 
-I am just a spectator.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisul&layout=compact&theme=gruvbox&langs_count=4&disable_animations=true)
 
 ```shell
-$ echo "Bye, World!" > README.md
+$ echo "bye, world!" > readme.md
 ```
